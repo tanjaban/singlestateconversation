@@ -2,7 +2,7 @@ from flask import Flask, jsonify, render_template, request
 
 from chatbot.chatbot import Chatbot
 
-PYTHONANYWHERE_USERNAME = "carvice"
+PYTHONANYWHERE_USERNAME = "tanjabannwart"
 PYTHONANYWHERE_WEBAPPNAME = "mysite"
 
 app = Flask(__name__)
